@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: Jan 27 -28, 2026
-- Facilitator: @Jian Qiang Zhang
+- Facilitator: @Jian Qiang Zhang of Microsoft
 
 ## Class Resources
 
